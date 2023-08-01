@@ -11,6 +11,7 @@ profile:
   address: >
     <p>Room 244</p>
     <p>Department of Statistics</p>
+    <p>Ludwig Maximilian University of Munich</p>
     <p>Ludwigstr. 33</p>
     <p>80539 Munich, Germany </p>
 
