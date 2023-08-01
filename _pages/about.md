@@ -9,11 +9,8 @@ profile:
   image: me.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 244</p>
     <p>Department of Statistics</p>
-    <p>Ludwig Maximilian University of Munich</p>
-    <p>Ludwigstr. 33</p>
-    <p>80539 Munich, Germany </p>
+    <p>LMU Munich</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
