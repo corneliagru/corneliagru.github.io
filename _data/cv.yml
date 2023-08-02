@@ -1,10 +1,12 @@
-- title: General Information
+- title: Personal Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Cornelia Gruber
     - name: Languages
-      value: English, German, Polish, French
+      value: English (fluent), German (native), Polish (intermediate), French (beginner)
+    - name: Email
+      value: <a href="mailto:cornelia.gruber@lmu.de">cornelia.gruber@lmu.de</a>
 
 - title: Education
   type: time_table
@@ -19,6 +21,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
+
     - title: BSc Statistics
       institution: LMU Munich, Munich, Germany
       year: 2019
@@ -29,7 +32,6 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-
 
 - title: Experience
   type: time_table
