@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: MSc Data Science
+    - title: M.Sc. Data Science
       institution: LMU Munich, Munich, Germany
-      year: 2021
+      year: 2019-2021
       description:
         - Description 1.
         - Description 2.
@@ -21,17 +21,23 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
+            -
+    - title: M.Sc. Data Science
+      institution: Athens University of Economics and Business, Athens, Greece
+      year: 2020
+      description:
+        - Exchange Semester
+        - Focus on Computational Statistics
 
-    - title: BSc Statistics
+    - title: B.Sc. Statistics
       institution: LMU Munich, Munich, Germany
-      year: 2019
+      year: 2016-2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Thesis on Stochastic Block Models for Statistical Network Analysis
+        - Math: Calculus, Linear Algebra
+        - Statistics: Probability Theory, Inductive Statistics, Generalized Regression, Multivariate Models
+        - Programming: Practical Projects in R
+        - Minor in Business Administration
 
 - title: Experience
   type: time_table
