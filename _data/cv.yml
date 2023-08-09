@@ -34,9 +34,9 @@
       year: 2016-2019
       description:
         - Thesis on Stochastic Block Models for Statistical Network Analysis
-        - "Math: Calculus, Linear Algebra"
-        - "Statistics: Probability Theory, Inductive Statistics, Generalized Regression, Multivariate Models"
-        - "Programming: Practical Projects in R"
+        - *Math*": Calculus, Linear Algebra"
+        - *Statistics*": Probability Theory, Inductive Statistics, Generalized Regression, Multivariate Models"
+        - *Programming*": Practical Projects in R"
         - Minor in Business Administration
 
 - title: Experience
