@@ -8,14 +8,24 @@
     - name: Languages
       value: English (fluent), German (native), Polish (intermediate), French (beginner)
 
-- title: Education
+- title: Experience
+  type: time_table
+  contents:
+    - title: PhD Candidate in Statistics
+      institution: LMU Munich, Munich, Germany
+      year: 2022-now
+      description:
+        - Uncertainty in Machine Learning
+        - Funded by Konrad Zuse School of Excellence in Reliable AI
+
+  title: Education
   type: time_table
   contents:
     - title: M.Sc. Data Science
       institution: LMU Munich, Munich, Germany
       year: 2019-2021
       description:
-        - Description 1.
+        - Thesis on *Explainable AI for Time Series Analysis*
         - Description 2.
         - title: Description 3.
           contents:
@@ -33,25 +43,11 @@
       institution: LMU Munich, Munich, Germany
       year: 2016-2019
       description:
-        - Thesis on Stochastic Block Models for Statistical Network Analysis
-        - *Math*": Calculus, Linear Algebra"
-        - *Statistics*": Probability Theory, Inductive Statistics, Generalized Regression, Multivariate Models"
-        - *Programming*": Practical Projects in R"
+        - Thesis on *Stochastic Block Models* for Statistical Network Analysis
+        - *Math* ": Calculus, Linear Algebra"
+        - *Statistics* ": Probability Theory, Inductive Statistics, Generalized Regression, Multivariate Models"
+        - *Programming* ": Practical Projects in R"
         - Minor in Business Administration
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: PhD Candidate in Statistics
-      institution: LMU Munich, Munich, Germany
-      year: 2022-now
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
 - title: Honors and Awards
   type: time_table
