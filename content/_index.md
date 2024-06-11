@@ -63,6 +63,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    content:
+      title: Experience
+      text: ""
+      filters:
+        folders:
+          - experience
+    design:
+        view: timeline
+  
 #  - block: collection
 #    id: talks
 #    content:
