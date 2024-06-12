@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://aclanthology.org/2024.unimplicit-1.2'
+url_pdf: 'https://aclanthology.org/2024.unimplicit-1.2.pdf'
 url_code: 'https://github.com/corneliagru/label-variation-nli'
 url_dataset: ''
 url_poster: ''
