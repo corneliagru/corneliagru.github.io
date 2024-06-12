@@ -25,7 +25,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+# publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: Gruber, C., Hechinger, K., Assenmacher, M., Kauermann, G. & Plank, B. More Labels or Cases? Assessing Label Variation in Natural Language Inference. in Proceedings of the Third Workshop on Understanding Implicit and Underspecified Language 22–32 (Association for Computational Linguistics, Malta, 2024)

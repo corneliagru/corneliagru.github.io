@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+# publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: Gruber, C., Schenk, P. O., Schierholz, M., Kreuter, F. & Kauermann, G. Sources of Uncertainty in Machine Learning -- A Statisticians’ View. Preprint at https://doi.org/10.48550/arXiv.2305.16703 (2023)
