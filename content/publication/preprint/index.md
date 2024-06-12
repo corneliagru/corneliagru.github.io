@@ -2,7 +2,7 @@
 title: "Sources of Uncertainty in Machine Learning - A Statiticians' View"
 authors:
 - admin
-- Patrick Oliver Schenk 
+- Patrick Oliver Schenk
 - Malte Schierholz
 - Frauke Kreuter
 - Göran Kauermann
