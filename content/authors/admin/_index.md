@@ -73,7 +73,7 @@ education:
       Thesis: Stochastic Block Models
 work:
   - position: Intern
-    company_name: Swiss Re (Swiss Reinsurance Company Ltd), Zurich, Switzerland
+    company_name: Swiss Reinsurance Company Ltd (Swiss Re), Zurich, Switzerland
     company_url: ''
     company_logo: ''
     date_start: 2024-06-17
@@ -88,8 +88,8 @@ work:
     date_end: 2021-10-31
     summary: |
       Predictive maintenance: Explainable anomaly detection for sensor data via SHAP values
-  - position: Student Assistant, Munich, Germany
-    company_name: LMU Munich
+  - position: Student Assistant
+    company_name: LMU Munich, Munich, Germany
     company_url: ''
     company_logo: ''
     date_start: 2020-04-01
