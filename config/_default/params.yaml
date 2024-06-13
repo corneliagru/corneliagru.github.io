@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: "Hi I'm Cornelia Gruber, a PhD student at LMU Munich. I'm interested in the intersection of statistics and machine learning."
+    description: "Hi, I'm Cornelia Gruber, a PhD student at LMU Munich. I'm interested in the intersection of statistics and machine learning."
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
