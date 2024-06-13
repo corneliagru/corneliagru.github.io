@@ -75,7 +75,7 @@ work:
   - position: Intern
     company_name: Swiss Reinsurance Company Ltd (Swiss Re), Zurich, Switzerland
     company_url: ''
-    company_logo: icon/swiss-re-n--big.png
+    company_logo: swiss-re-n--big
     date_start: 2024-06-17
     date_end: 2024-11-15
     summary: |2-
