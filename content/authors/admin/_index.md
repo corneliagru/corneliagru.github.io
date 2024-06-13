@@ -75,11 +75,11 @@ work:
   - position: Intern
     company_name: Swiss Reinsurance Company Ltd (Swiss Re), Zurich, Switzerland
     company_url: ''
-    company_logo: swissre
+    company_logo: icons/swissre.svg
     date_start: 2024-06-17
     date_end: 2024-11-15
     summary: |2-
-      Responsibilities include building a model for risk assessment in agriculture in North America.
+      Responsibilities include building a model for risk assessment in agriculture in North America
   - position: Master Thesis Student
     company_name: Siemens AG, Munich, Germany
     company_url: ''
