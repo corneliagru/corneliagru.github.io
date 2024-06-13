@@ -71,7 +71,7 @@ education:
     summary: |
       Minor in Business Administration. 
       Thesis: Stochastic Block Models
-work:
+work:[.gitkeep](..%2F..%2F..%2Fassets%2Fmedia%2Ficons%2F.gitkeep)
   - position: Intern
     company_name: Swiss Reinsurance Company Ltd (Swiss Re), Zurich, Switzerland
     company_url: ''
