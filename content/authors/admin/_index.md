@@ -3,7 +3,7 @@
 title: Cornelia Gruber
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Cornelia
@@ -53,7 +53,7 @@ education:
   - area: PhD Statistics
     institution: LMU Munich
     date_start: 2022-01-01
-    date_end: 
+    date_end:
     summary: |
       Working on uncertainty in machine learning, label uncertainty and NLP. Supervised by Prof Göran Kauermann. 
       Funded by Konrad Zuse School of Excellence for Reliable AI.
@@ -103,9 +103,9 @@ work:
     date_start: 2019-07-01
     date_end: 2020-03-31
     summary: |
-        - Ad hoc analyses for Vendor & Brand Managers using R
-        - Made data available via dashboards with plotly for R
-        - Automated weekly reports for top search keywords with SQL
+      - Ad hoc analyses for Vendor & Brand Managers using R
+      - Made data available via dashboards with plotly for R
+      - Automated weekly reports for top search keywords with SQL
   - position: Intern
     company_name: PROCON IT AG,  Munich, Germany
     company_url: ''
