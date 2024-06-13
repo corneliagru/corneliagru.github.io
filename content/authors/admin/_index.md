@@ -75,7 +75,7 @@ work:[.gitkeep](..%2F..%2F..%2Fassets%2Fmedia%2Ficons%2F.gitkeep)
   - position: Intern
     company_name: Swiss Reinsurance Company Ltd (Swiss Re), Zurich, Switzerland
     company_url: ''
-    company_logo: swiss-re-n--big
+    company_logo: swissre
     date_start: 2024-06-17
     date_end: 2024-11-15
     summary: |2-
