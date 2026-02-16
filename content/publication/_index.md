@@ -2,6 +2,11 @@
 title: Publications
 cms_exclude: true
 
+cascade:
+  build:
+    list: always
+    render: never
+
 # View.
 view: citation
 
