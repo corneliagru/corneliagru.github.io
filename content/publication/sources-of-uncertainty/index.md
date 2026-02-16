@@ -1,5 +1,5 @@
 ---
-title: "Sources of Uncertainty in Machine Learning - A Statiticians' View"
+title: "Sources of Uncertainty in Machine Learning - A Statisticians' View"
 authors:
 - admin
 - Patrick Oliver Schenk

@@ -46,6 +46,7 @@ profiles:
 
 interests:
   - Statistics
+  - Data Science
   - Uncertainty in Machine Learning
   - Natural Language Processing
 
@@ -192,4 +193,6 @@ work:
 
 ## About Me
 
-I am a PhD Candiate at LMU Munich, interested in the intersection between statistics and machine learning. My research focuses on uncertainty in machine learning, label uncertainty and natural language processing. I am supervised by Prof Göran Kauermann and funded by the Konrad Zuse School of Excellence for Reliable AI.
+I am a PhD Candidate at LMU Munich, interested in the intersection between statistics and machine learning. My research focuses on uncertainty in machine learning, label uncertainty, and natural language processing. I am supervised by Prof Goeran Kauermann and funded by the Konrad Zuse School of Excellence for Reliable AI.
+
+Google Scholar snapshot (as of February 16, 2026): 95 citations, h-index 3, and i10-index 2.
