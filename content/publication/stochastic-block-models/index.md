@@ -7,8 +7,8 @@ doi: ""
 
 publishDate: "2019-01-01T00:00:00Z"
 
-publication: "Gruber, C. Stochastic Block Models. Bachelor's thesis (2019)."
-publication_short: "Bachelor's thesis (2019)"
+publication: "Cornelia Gruber. 2019. Stochastic Block Models. Bachelor's Thesis, LMU Munich."
+publication_short: "Bachelor's Thesis, LMU Munich."
 
 abstract: Bachelor's thesis on stochastic block models.
 

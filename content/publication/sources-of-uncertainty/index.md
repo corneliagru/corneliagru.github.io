@@ -18,9 +18,9 @@ publishDate: "2017-01-01T00:00:00Z"
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Gruber, C., Schenk, P. O., Schierholz, M., Kreuter, F. & Kauermann, G. Sources of Uncertainty in Machine Learning - A Statisticians' View. Preprint at https://doi.org/10.48550/arXiv.2305.16703 (2023)"
+publication: "Cornelia Gruber, Patrick Oliver Schenk, Malte Schierholz, Frauke Kreuter, and Göran Kauermann. 2023. Sources of Uncertainty in Machine Learning - A Statisticians' View. arXiv preprint arXiv:2305.16703."
 
-publication_short: "Preprint at https://doi.org/10.48550/arXiv.2305.16703 (2023)"
+publication_short: "arXiv preprint arXiv:2305.16703."
 
 abstract: Machine Learning and Deep Learning have achieved an impressive standard today, enabling us to answer questions that were inconceivable a few years ago. Besides these successes, it becomes clear, that beyond pure prediction, which is the primary strength of most supervised machine learning algorithms, the quantification of uncertainty is relevant and necessary as well. While first concepts and ideas in this direction have emerged in recent years, this paper adopts a conceptual perspective and examines possible sources of uncertainty. By adopting the viewpoint of a statistician, we discuss the concepts of aleatoric and epistemic uncertainty, which are more commonly associated with machine learning. The paper aims to formalize the two types of uncertainty and demonstrates that sources of uncertainty are miscellaneous and can not always be decomposed into aleatoric and epistemic. Drawing parallels between statistical concepts and uncertainty in machine learning, we also demonstrate the role of data and their influence on uncertainty.
 # Summary. An optional shortened abstract.
