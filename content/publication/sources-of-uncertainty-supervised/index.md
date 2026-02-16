@@ -5,7 +5,7 @@ authors:
   - Patrick Oliver Schenk
   - Malte Schierholz
   - Frauke Kreuter
-  - Goeran Kauermann
+  - Göran Kauermann
 date: "2025-01-01T00:00:00Z"
 doi: ""
 

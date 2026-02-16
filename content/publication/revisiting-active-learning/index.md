@@ -2,9 +2,9 @@
 title: "Revisiting Active Learning Under (Human) Label Variation"
 authors:
   - admin
-  - Hannah Alber
+  - Helen Alber
   - Bernd Bischl
-  - Goeran Kauermann
+  - Göran Kauermann
   - Barbara Plank
   - Matthias Assenmacher
 date: "2025-01-01T00:00:00Z"
@@ -25,7 +25,7 @@ tags:
 
 featured: true
 
-url_pdf: ""
+url_pdf: "https://aclanthology.org/2025.nlperspectives-1.7.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
