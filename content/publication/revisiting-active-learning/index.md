@@ -27,7 +27,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication: Gruber, C., Alber, H., Bischl, B., Kauermann, G., Plank, B. & Aßenmacher, M. Revisiting Active Learning under (Human) Label Variation. In Proceedings of the The 4th Workshop on Perspectivist Approaches to NLP 75–86 (Association for Computational Linguistics, Suzhou, China, 2025)
 publication_short: In Proceedings of the The 4th Workshop on Perspectivist Approaches to NLP 75–86 (Association for Computational Linguistics, Suzhou, China, 2025)
 
-abstract:  
+abstract: We revisit active learning in the presence of human label variation.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
