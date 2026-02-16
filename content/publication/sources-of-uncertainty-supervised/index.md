@@ -11,7 +11,7 @@ doi: ""
 
 publishDate: "2025-01-01T00:00:00Z"
 
-publication: "Gruber, C., Schenk, P. O., Schierholz, M., Kreuter, F. & Kauermann, G. Sources of uncertainty in supervised machine learning-a statisticians' view. arXiv preprint arXiv:2305.16703 (2025)."
+publication: "Gruber, C., Schenk, P. O., Schierholz, M., Kreuter, F. & Kauermann, G. Sources of Uncertainty in Supervised Machine Learning - A Statisticians' View. arXiv preprint arXiv:2305.16703 (2025)."
 publication_short: "arXiv preprint arXiv:2305.16703 (2025)"
 
 abstract: This publication discusses uncertainty sources in supervised machine learning from a statistical perspective and revisits aleatoric and epistemic uncertainty.

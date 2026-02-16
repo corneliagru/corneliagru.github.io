@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Gruber, C., Schenk, P. O., Schierholz, M., Kreuter, F. & Kauermann, G. Sources of Uncertainty in Machine Learning -- A Statisticians’ View. Preprint at https://doi.org/10.48550/arXiv.2305.16703 (2023)"
+publication: "Gruber, C., Schenk, P. O., Schierholz, M., Kreuter, F. & Kauermann, G. Sources of Uncertainty in Machine Learning - A Statisticians' View. Preprint at https://doi.org/10.48550/arXiv.2305.16703 (2023)"
 
 publication_short: "Preprint at https://doi.org/10.48550/arXiv.2305.16703 (2023)"
 
